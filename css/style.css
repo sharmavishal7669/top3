@@ -16,6 +16,20 @@ body{
     display: none;
 }
 
+.col{
+    padding: 7%;
+    margin: auto;
+}
+
+#categorygridheading{
+    padding: 1%;
+    background-color: rgba(0, 217, 255, 1);
+}
+
+::placeholder{
+    color: white;
+    opacity: 1;
+}
 @media only screen and (min-width: 768px)
 {
     #signupbutton{
