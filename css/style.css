@@ -2,6 +2,10 @@ body{
     background-color: #042d58;
 }
 
+footer.page-footer .footer-copyright{
+    margin-top: -7%;
+    position: relative;
+}
 #login{
     margin-bottom: 5%;
 }
